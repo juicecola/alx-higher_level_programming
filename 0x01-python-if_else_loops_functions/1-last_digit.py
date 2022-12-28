@@ -16,4 +16,3 @@ elif lastd == 0:
     print("{:d} and is 0".format(lastd))
 else:
     print("{:d} and is less than 6 and not 0".format(lastd))
-
