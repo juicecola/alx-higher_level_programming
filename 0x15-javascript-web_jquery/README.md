@@ -17,4 +17,4 @@ RESOURCES
 * https://www.youtube.com/watch?v=fEYx8dQr_cQ
 * https://jquery.com/
 * https://api.jquery.com/
-* https://learn.jquery.com/ajax/
+* https://learn.jquery.com/ajax
