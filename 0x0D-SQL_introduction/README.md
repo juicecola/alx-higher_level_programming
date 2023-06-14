@@ -2,7 +2,7 @@
 QL stands for Structured Query Language, and it is a programming language used to manage and manipulate data in a Relational Database Management System (RDBMS). SQL is used for tasks such as creating and modifying database schema, inserting, updating, and deleting data, and querying data from one or more tables.
 
 SQL is used by database administrators, software developers, data analysts, and other professionals who work with data. It is widely used in the business world to manage and analyze data, and it is an essential skill for anyone working in the field of data management.
-
+ Alas
 Concept
 * https://intranet.alxswe.com/concepts/37
 
